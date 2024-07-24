@@ -1,4 +1,4 @@
-# Proof of concept -Expo (React Native) WebView Integration with Zendesk Messaging & Zendesk Chat
+# Expo (React Native) WebView Integration with Zendesk Messaging & Zendesk Chat
 
 This repository contains a proof of concept for integrating Zendesk Messaging & Zendesk Chat into a React Native application using WebView.
 
