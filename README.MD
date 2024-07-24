@@ -4,24 +4,18 @@ This repository contains a proof of concept for integrating Zendesk Messaging & 
 
 ## Installation
 
-1. Clone the repository:
+
+1. Install dependencies:
 
 ```bash
-git clone https://github.com/your-username/zendesk-messaging-chat-expo-react-native-webview.git
-```
-
-2. Install dependencies:
-
-```bash
-cd zendesk-messaging-chat-expo-react-native-webview
 npm install
 ```
 
-3. Configure Zendesk Messaging Chat:
+2. Configure Zendesk Messaging Chat:
 
    - Obtain your Zendesk Messaging/Chat channel key from the Zendesk admin site.
    - Open `src/App.js` and enter the channel keys
-4. Run the application:
+3. Run the application:
 
 ```bash
 npm run ios
